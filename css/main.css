@@ -1,0 +1,60 @@
+#sec1div1 {
+  height: 140px;
+  width:  300px;
+  padding-top:0.5em;
+  padding-left: 1em;
+  background: black;
+}
+
+#sec1div2 {
+  height: 170px;
+  width:  250px;
+  padding-left: 1em;
+  border-radius: 25px;
+  border: 0.5em solid #69b;
+  background: blue;
+}
+
+#sec1div3 {
+  height: 35px;
+  width:  220px;
+  padding-left: 1em;
+  background: red;
+
+}
+
+#sec1div4 {
+  height: 30px;
+  width:  290px;
+  border-radius: 25px;
+  background: #69b;
+}
+
+.sec1div5 {
+  height: 170px;
+  width:  300px;
+  background: white;
+}
+
+.Tit_Ppal1{
+  color: white;
+  padding-top:1em;
+  text-align: center;
+  line-height: 0.2;
+
+}
+
+.Tit_Ppal2{
+  color: white;
+  text-align: center;
+}
+
+.Tit_Ppal3{
+  color: white;
+  text-align: center;
+}
+
+.Tit_Ppal4{
+  color: black;
+  text-align: center;
+}
